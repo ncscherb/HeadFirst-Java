@@ -1,0 +1,10 @@
+qire168
+在线考试系统的设计与实现
+
+office word pro密钥：
+46N8F-V2332-3T68G-DBXKD-T6KKV
+46N8F-V2332-3T68G-DBXKD-T6KKV
+9H7N7-4JC78-DHJ6B-78BR7-HXJQH
+C2N6Y-BMKT3-PGMGJ-4967G-V6BG7
+
+E:\Users\MyEclipse 2015\HeadFist>javac -classpath D:\Tomcat\lib\Servlet-api.jar;class:. -d classes -sourcepath src src\com\example\web\BeerSelect.java
